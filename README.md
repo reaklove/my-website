@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chinese New Year 
-            Nita  </title>
+    <title>Chinese New Year Animation</title>
     <style>
         * {
             margin: 0;
@@ -59,7 +58,7 @@
     <canvas id="canvas"></canvas>
     <div class="greeting">
         恭喜发财
-        <div class="subtitle">Happy Chinese New Year!</div>
+        <div class="subtitle">Happy Chinese New year "nita"!</div>
     </div>
 
     <script>
